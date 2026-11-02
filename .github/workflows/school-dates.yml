@@ -28,5 +28,6 @@ jobs:
             echo "No change."
           else
             git commit -m "Update Confirmation school-year dates"
+            git pull --rebase origin main
             git push
           fi
