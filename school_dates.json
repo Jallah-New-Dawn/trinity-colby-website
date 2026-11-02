@@ -1,1 +1,9 @@
-{"school_year": "2026-27", "first_day": "2026-08-19", "last_day": "2027-05-20", "confirmation_from": "2026-08-19", "confirmation_to": "2027-05-20"}
+{
+  "school_year": "2026-27",
+  "first_day": "2026-08-19",
+  "last_day": "2027-05-20",
+  "confirmation_from": "2026-08-19",
+  "confirmation_to": "2027-05-20",
+  "source": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/2585/Colby/50d09b12-728d-4342-93e0-2def643a1595/2026-27-Academic-Calendar---Approved-KB-(1).pdf?disposition=inline",
+  "verified": "2026-11-02"
+}
